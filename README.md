@@ -17,11 +17,11 @@
 </p>
 <br>
 <br>
-<!-- ABOUT ME AND MY UPDATES -->
-<img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 ## Building the future of Web3: DAOs, Blockchain, and Beyond!
-<br>
+
+<!-- ABOUT ME AND MY UPDATES -->
+<img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 ## I'm currently on a mission to:
 Fuel the Ethereum Network: Building innovative Decentralized Autonomous Organizations (DAOs) to revolutionize governance and resource allocation.

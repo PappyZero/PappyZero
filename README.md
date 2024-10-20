@@ -26,7 +26,7 @@
 
 Building the future of Web3: DAOs, Blockchain, and Beyond!
 
-** I'm currently on a mission to:**
+## I'm currently on a mission to:
 Fuel the Ethereum Network: Building innovative Decentralized Autonomous Organizations (DAOs) to revolutionize governance and resource allocation.
 Demystify emerging technologies: Actively learning and exploring the cutting edge of blockchain ⛓️, NFTs, and Zero-Knowledge Proofs.
 Spread the knowledge: Sharing my passion through regular blog posts on Medium (https://medium.com/@amaddinmajid24) covering blockchain, cryptography, DAOs, and web3 development.

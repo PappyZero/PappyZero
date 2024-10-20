@@ -23,6 +23,7 @@
 ## Building the future of Web3: DAOs, Blockchain, and Beyond!
 <br>
 <br>
+
 ## I'm currently on a mission to:
 Fuel the Ethereum Network: Building innovative Decentralized Autonomous Organizations (DAOs) to revolutionize governance and resource allocation.
 <br>

@@ -17,18 +17,17 @@
 </p>
 <br>
 <br>
-
-
-
-
 <!-- ABOUT ME AND MY UPDATES -->
 <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 ## Building the future of Web3: DAOs, Blockchain, and Beyond!
-
+<br>
+<br>
 ## I'm currently on a mission to:
 Fuel the Ethereum Network: Building innovative Decentralized Autonomous Organizations (DAOs) to revolutionize governance and resource allocation.
+<br>
 Demystify emerging technologies: Actively learning and exploring the cutting edge of blockchain ⛓️, NFTs, and Zero-Knowledge Proofs.
+<br>
 Spread the knowledge: Sharing my passion through regular blog posts on Medium (https://medium.com/@amaddinmajid24) covering blockchain, cryptography, DAOs, and web3 development.
 
 ## Looking to collaborate?
@@ -38,11 +37,14 @@ Dive into my codebase: Explore my GitHub repositories (https://github.com/PappyZ
 
 ## Learn more about me:
 Professional journey: Connect with me on LinkedIn (https://www.linkedin.com/in/amaddin-paul) to understand my background and experiences.
+<br>
 Get in touch: Feel free to shoot me an email at [mailto:amaddinmajid24@gmail.com] if you have any questions or ideas.
 
 ## Open to feedback!
 I'm always learning and growing, so your suggestions are valuable to me.
 
+<br>
+<br>
 <!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
  <strong>Let's Connect on:</strong>

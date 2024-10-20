@@ -33,6 +33,7 @@ Spread the knowledge: Sharing my passion through regular blog posts on Medium (h
 
 ## Looking to collaborate?
 Join the web3 revolution: I'm actively seeking partners for exciting web development projects (check out one of my recent ones: https://github.com/PappyZero/Hospital-Management-with-HTML-PHP).
+<br>
 Dive into my codebase: Explore my GitHub repositories (https://github.com/PappyZero?tab=repositories) to see my past projects and coding style.
 
 ## Learn more about me:

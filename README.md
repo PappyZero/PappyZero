@@ -97,7 +97,7 @@ I'm always learning and growing, so your suggestions are valuable to me.
     <br>
     <br>
  
- <div align="center"><h3 align="center">Tools</h3> 
+<div align="center"><h3 align="center">Tools</h3> 
   <img src="https://img.shields.io/badge/VS_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  align="center" alt="vscode"/>
   <img src="https://img.shields.io/badge/Git-f64c28?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
@@ -118,8 +118,8 @@ I'm always learning and growing, so your suggestions are valuable to me.
   <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=Pandas&logoColor=fffff" align="center" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-20232A?style=for-the-badge&logo=NumPy&logoColor=fffff" align="center" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Keras-20232A?style=for-the-badge&logo=Keras&logoColor=fffff" align="center" alt="Keras"/>
-
- </div>
+</div>
+<br>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 ## 📊 Statistics  

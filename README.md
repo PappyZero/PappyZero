@@ -64,7 +64,8 @@ I'm always learning and growing, so your suggestions are valuable to me.
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
     <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
     <img src ="https://img.shields.io/badge/javascript-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
-    <br>
+    <br/>
+    <br/>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
     <img src="https://img.shields.io/badge/typescript-800000?style=for-the-badge&logo=typescript&logoColor=fff"  align="center" alt="typescript" />
  <br/>
@@ -76,8 +77,9 @@ I'm always learning and growing, so your suggestions are valuable to me.
     <img src="https://img.shields.io/badge/PHP-777BB5.svg?style=for-the-badge&logo=PHP&logoColor=white" align="center" alt="PHP"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
     <img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" align="center" alt="nodemon"/>
-    <br>
-    <img src="https://img.shields.io/badge/Move-3A22AD.svg?style=for-the-badge&logo=Move&logoColor=white" align="center" alt="Move"/> 
+    <br/>
+    <br/>
+     <img src="https://img.shields.io/badge/Move-3A22AD.svg?style=for-the-badge&logo=Move&logoColor=white" align="center" alt="Move"/> 
     <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white" align="center" alt="Solidity"/> 
 </div>
 <br>
@@ -86,13 +88,10 @@ I'm always learning and growing, so your suggestions are valuable to me.
     <img src="https://img.shields.io/badge/python-%2523E34F26.svg?style=for-the-badge&logo=python&logoColor=white" align="center" alt="Python">
     <img src = "https://img.shields.io/badge/r-%25231572B6.svg?style=for-the-badge&logo=r&logoColor=white" align="center" alt="R">
     <img src ="https://img.shields.io/badge/java-%252314354C.svg?style=for-the-badge&logo=java&logoColor=%2523F7DF1E" align="center" alt="java">
-    <br>
+    <br/>
+    <br/>
     <img src="https://img.shields.io/badge/Machine%20Learning-20232A?style=for-the-badge&logo=Machine%20Learning&logoColor=fffff"  align="center" alt="Machine Learning" />
-    <br>
-    <br>
     <img src="https://img.shields.io/badge/Data%20Science-20232A?style=for-the-badge&logo=Data%20Science&logoColor=fffff"  align="center" alt="Data Science" />
-    <br>
-    <br>
     <img src="https://img.shields.io/badge/Computer%20Vision-20232A?style=for-the-badge&logo=ComputerVision&logoColor=fffff"  align="center" alt="Computer Vision" />
     <br>
     <br>
@@ -100,10 +99,10 @@ I'm always learning and growing, so your suggestions are valuable to me.
  <div align="center"><h3 align="center">Tools</h3> 
   <img src="https://img.shields.io/badge/VS_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  align="center" alt="vscode"/>
   <img src="https://img.shields.io/badge/Git-f64c28?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src = "https://img.shields.io/badge/NPM-CA4245?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-<img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" align="center" alt="Laravel"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+  <img src = "https://img.shields.io/badge/NPM-CA4245?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" align="center" alt="Laravel"/>
+  <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
   <br/>
   <br/>
   <img src = "https://img.shields.io/badge/sui-00A3E0.svg?style=for-the-badge&logo=sui&logoColor=white" align="center" alt="SUI"/>

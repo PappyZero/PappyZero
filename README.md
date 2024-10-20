@@ -15,6 +15,8 @@
 <p align="center" color: "red">
   <a><img src="https://readme-typing-svg.demolab.com/?font=times+new+roman&weight=10&size=23&duration=8000&pause=550&color=FFFFFF&vCenter=true&multiline=true&repeat=false&height=145&width=1400&lines=Crafting+digital+solutions+with+passion+and+purpose.+As+a+dedicated+software+engineering+student,+I'm+excited+to+share+my+journey+of+learning+and+growth.+With+over+4+years+of+hands-on+experience+in+the+tech+industry,+I've+honed+my+skills+in+full-stack+web+development,+blockchain,+Artificial+Intelligence,+and+GitHub+version+control.;Throughout+my+academic+journey,+I've+actively+sought+out+opportunities+to+apply+my+knowledge+to+real-world+projects.;From+building+innovative+web+applications+to+exploring+the+potential+of+emerging+technologies+like+blockchain+and+AI,+I'm+constantly+driven+to+push+the+boundaries+of+what's+possible.;I'm+committed+to+writing+clean,+maintainable+code+and+optimizing+systems+for+efficiency.;My+goal+is+to+create+solutions+that+not+only+work+but+also+delight+users+and+make+a+positive+impact.;Let's+connect+and+collaborate+on+exciting+projects+together!"></a>
 </p>
+<br>
+<br>
 
 
 

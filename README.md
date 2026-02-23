@@ -82,8 +82,8 @@ Git • GitHub • Postman • VS Code • NPM
 
 ## 📫 Let’s Connect
 
-🔗 LinkedIn: https://www.linkedin.com/in/amaddin-paul  
-✍ Medium: https://medium.com/@amaddinmajid24  
+🔗 LinkedIn: www.linkedin.com/in/iyobosa-amaddin-a73359387
+✍ Medium: https://medium.com/@amaddinmajid24
 📧 Email: amaddinmajid24@gmail.com  
 
 ---

@@ -71,6 +71,30 @@ Git • GitHub • Postman • VS Code • NPM
 
 ---
 
+## 📚 Current Learning Journey
+
+Currently participating in the **DSN × Microsoft Elevate AI Developers Program**, working toward the **Microsoft SC-900 Certification: Security, Compliance & Identity Fundamentals**.
+
+Through this program, I’m strengthening my understanding of **cloud security and identity systems within the Microsoft ecosystem**.
+
+**Topics I'm currently studying:**
+
+- Cloud security principles  
+- Zero Trust architecture  
+- Identity and access management  
+- Microsoft security solutions  
+- Compliance and governance  
+
+I’m documenting my progress publicly as I work through the program.
+
+**Follow my learning journey:**
+
+- LinkedIn: https://www.linkedin.com/in/iyobosa-amaddin-a73359387  
+- Twitter / X: https://x.com/Pappy_Zero  
+- Medium: https://medium.com/@amaddinmajid24  
+
+---
+
 ## 🌍 Open To
 
 ✔ Remote Full-Stack Roles  
@@ -82,8 +106,8 @@ Git • GitHub • Postman • VS Code • NPM
 
 ## 📫 Let’s Connect
 
-🔗 LinkedIn: www.linkedin.com/in/iyobosa-amaddin-a73359387
-✍ Medium: https://medium.com/@amaddinmajid24
+🔗 LinkedIn: www.linkedin.com/in/iyobosa-amaddin-a73359387  
+✍ Medium: https://medium.com/@amaddinmajid24  
 📧 Email: amaddinmajid24@gmail.com  
 
 ---

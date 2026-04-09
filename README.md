@@ -1,8 +1,14 @@
+<!-- HERO BANNER -->
+
+<img src="https://img.freepik.com/free-vector/colorful-welcome-lettering-modern-banner-invitation_1017-50216.jpg?w=1380" width="100%" />
+
+---
+
 # 👋 Hi, I'm Majid
 
 **building with code, becoming through it**
 
-Full-Stack Developer • AI Systems • Builder
+Full-Stack Developer • AI Integrations • Secure Systems • Automation-Driven Engineering
 
 ---
 
@@ -16,63 +22,70 @@ This space is where code meets process — not just what I build, but how I thin
 
 ## ⚙️ What I Build
 
-🔹 Full-Stack Applications  
-- React, Next.js, TypeScript  
-- Scalable APIs (Node.js, Laravel)  
-- Clean, maintainable architectures  
+🔹 Full-Stack Applications
 
-🔹 AI-Integrated Systems  
-- LLM-powered applications  
-- AI workflows & automation  
-- Intelligent content + Q&A systems  
+* React, Next.js, TypeScript
+* Scalable APIs (Node.js, Laravel)
+* Clean, maintainable architectures
 
-🔹 Secure & Decentralized Systems  
-- Blockchain-based verification  
-- Privacy-aware architectures  
-- Smart contracts & IPFS  
+🔹 AI-Integrated Systems
+
+* LLM-powered applications
+* AI workflows & automation
+* Intelligent content + Q&A systems
+
+🔹 Secure & Decentralized Systems
+
+* Blockchain-based verification
+* Privacy-aware architectures
+* Smart contracts & IPFS
 
 ---
 
 ## 🚀 Selected Work
 
-🔹 AI-Powered Learning Platform  
+🔹 AI-Powered Learning Platform
 Context-aware Q&A system powered by Hugging Face + OpenRouter.
 
-🔹 AI Resume & Portfolio Generator  
+🔹 AI Resume & Portfolio Generator
 Transforms structured input into deployable portfolio content using Gemini (Genkit).
 
-🔹 Decentralized Credential System  
+🔹 Decentralized Credential System
 NFT-based verification with QR validation using IPFS + blockchain.
 
-🔹 Secure Voting Platform  
+🔹 Secure Voting Platform
 Privacy-first voting system with hashed identity and validation logic.
 
 ---
 
 ## 🛠 Tech Stack
 
-Frontend: React • Next.js • TypeScript • Tailwind  
-Backend: Node.js • Laravel • REST APIs  
-AI: OpenRouter • Hugging Face • Gemini • Python  
-Web3: Solidity • Hardhat • IPFS  
-Tools: Git • Postman • VS Code  
+Frontend: React • Next.js • TypeScript • Tailwind
+Backend: Node.js • Laravel • REST APIs
+AI: OpenRouter • Hugging Face • Gemini • Python
+Web3: Solidity • Hardhat • IPFS
+Tools: Git • Postman • VS Code
 
 ---
 
 ## 📚 Current Focus
 
-Currently learning and documenting:
+Recently completed the **Microsoft SC-900: Security, Compliance & Identity Fundamentals** certification, strengthening my understanding of:
 
-- Cloud security & identity systems  
-- Zero Trust architecture  
-- Microsoft security ecosystem (SC-900)  
+* Cloud security principles
+* Zero Trust architecture
+* Identity and access management
+* Microsoft security solutions
+* Compliance and governance
+
+I’m continuing to document and apply these concepts in real-world systems.
 
 ---
 
 ## 🌍 Connect
 
-LinkedIn: www.linkedin.com/in/iyobosa-amaddin-a73359387  
-Medium: https://medium.com/@amaddinmajid24  
+LinkedIn: [www.linkedin.com/in/iyobosa-amaddin-a73359387](http://www.linkedin.com/in/iyobosa-amaddin-a73359387)
+Medium: https://medium.com/@amaddinmajid24
 
 ---
 
